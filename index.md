@@ -79,26 +79,16 @@ Editor-in-chief, department of campus news, February 2019 - December 2020
 - Covered an array of topics with specialization in school and student issues, such as graduates’ housing problems, arbitrary express delivery charges on campus, and students’ lives in the lockdown
 
 **School Radio Station of Renmin University of China**
+
 Host & Content Creator, September 2018 - September 2019
 - Wrote culture reviews and broadcast scripts
 - hosted a weekly live show, recorded the program, and edited with Adobe Audition
 
 ## Skills And Languages
 ### Professional Skills
-- Data visualization (Flourish, Matplotlib, etc.), data processing (Python), literature search, academic writing
+- Data visualization (Flourish, Matplotlib, etc.), data processing (Python, C, C++), literature search, academic writing
 Computer Software
 - Microsoft Office Suite (advanced), Adobe Illustrator (advanced), Adobe Photoshop (intermediate), Adobe Audition (intermediate), Final Cut Pro (intermediate), Adobe InDesign (beginner), Tableau (beginner)
 
 ### Languages
 - Chinese (native), English (full professional proficiency; IELTS academic: 8.0), French (limited proficiency) 
-
-## Course Project
-### Narrative Writing
-
-- The Lightning That Tears Through the Sky: The World Economic Herald and China’s 80s Political Reforms (Media and Social Development in Mainland China, CUHK Summer School 2021)
-- Four Months, No Business, Cinemas' Resumption Still Uncertain (News Reporting and Writing)
-- Under the Skin: the Beauty and Sorrow of Nude Models (Investigative Report)
-
-### Multimedia & Interactive
-- City Life Collage in the Post-Pandemic Era (Photojournalism)
-- Say No to Domestic Violence (Short Public Service Advertisements, Cross Media Communication Experiment)
